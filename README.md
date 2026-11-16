@@ -1,5 +1,7 @@
 # VULYK homework kit
 
+▶️ Video: https://youtu.be/ohvrMPViEYw
+
 Homework for the video "Claude Code on a large project: a plan, waves and review by another model (VULYK)".
 The video runs one real task on solidtime, an open-source time tracker of about 134,000 lines of code, through
 VULYK: a plan with a file list, building in waves, a council review by another model, checks without a model and
